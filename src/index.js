@@ -1,4 +1,5 @@
-require('./styles/main.scss')
+import './styles/main.scss'
+import 'semantic-ui-css/semantic.min.css'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
